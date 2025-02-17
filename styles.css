@@ -17,5 +17,10 @@ img {
   }
 
 h1 {
-  background: linear-gradient(to right, #cc7e25, #94826d)
+  background: linear-gradient(to right, #cc7e25, #94826d);
+  margin: 20px;
+}
+
+a {
+  margin: 10px;
 }
